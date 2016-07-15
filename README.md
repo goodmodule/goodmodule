@@ -1,3 +1,7 @@
 # goodmodule.com
-Be a better web developer. JavaScript tips for everybody
+JavaScript tips for everybody.
+
+# Be a better web developer and follow
+- [Github](https://github.com/seeden/goodmodule.com)
+- [Instagram](https://www.instagram.com/goodmodule/)
  
