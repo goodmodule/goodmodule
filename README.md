@@ -52,9 +52,9 @@ msg === 'Hi Zlatko Fedor'; // true
 
 Compatibility
 
-| Chrome | Firefox | Edge | Node | Babel | Safari |
-|--------|---------|------|------|--------|-------|
-| 49     | 2       | 14   | 6    | 5      | 7.1   |
+| Chrome | Firefox | Edge | Opera | Node | Babel  | Safari |
+|--------|---------|------|-------|------|--------|-------|
+| 41     | 34      | 12   | 28    | 4    | 5      | 9     |
 
 ### 2. <a name="destructuring-assignment"></a>Destructuring Assignment
 ```js
