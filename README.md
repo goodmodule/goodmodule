@@ -11,6 +11,7 @@ JavaScript tips for everybody. (One new tip every day)
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
 ### [JavaScript](#javascript) 
 1. [Measuring Execution Times](#measuring-execution-time)
+2. [Be careful with typeof](#typeof) (16 Jun 2016)
 
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
 ###[ECMAScript 6](#es6) 
@@ -39,6 +40,24 @@ Compatibility
 | Chrome | Firefox | Internet Explorer | Opera | Safari | Node |
 |--------|---------|-------------------|-------|--------|------|
 | 2      | 10      | 11                | 9     | 4      | 0.1  |
+
+
+
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
+### 2. <a name="typeof"></a>Be careful with typeof
+```js
+typeof null === 'object'; // true
+typeof [1, 2] === 'object'; // true
+typeof class C {} === 'function'; // true
+typeof NaN === 'number'; // true
+// NaN means "Not-A-Number"
+```
+
+Compatibility
+
+| Chrome | Firefox | Internet Explorer | Opera | Safari | Node |
+|--------|---------|-------------------|-------|--------|------|
+| Yes    | Yes     | Yes               | Yes   | Yes    | Yes  |
 
 
 ## <a name="es6"></a>ECMAScript 6
