@@ -1,5 +1,5 @@
 # goodmodule
-JavaScript tips for everybody. (One new tip every day)
+Be a better web developer. JavaScript tips for everybody. (One new tip every day)
 
 ## Be a better web developer and follow
 - [www.goodmodule.com](http://www.goodmodule.com)
