@@ -5,6 +5,7 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 - [www.goodmodule.com](http://www.goodmodule.com)
 - [Github](https://github.com/seeden/goodmodule.com)
 - [Instagram](https://www.instagram.com/goodmodule/)
+- [Facebook](https://www.facebook.com/goodmodule/)
 
 ## Content
   
@@ -109,6 +110,8 @@ Compatibility
 
 
 ## Be a better web developer and follow
+- [www.goodmodule.com](http://www.goodmodule.com)
 - [Github](https://github.com/seeden/goodmodule.com)
 - [Instagram](https://www.instagram.com/goodmodule/)
+- [Facebook](https://www.facebook.com/goodmodule/)
  
