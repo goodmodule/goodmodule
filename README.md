@@ -7,15 +7,21 @@ JavaScript tips for everybody. (One new tip every day)
 - [Instagram](https://www.instagram.com/goodmodule/)
 
 ## Content
-  - [Javascript](#javascript)
-    1. [Measuring Execution Times](#measuring-execution-time)
+  
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
+### [JavaScript](#javascript) 
+1. [Measuring Execution Times](#measuring-execution-time)
 
-  - [ECMAScript 6](#es6)
-    1. [Template Strings](#template-strings)
-    2. [Destructuring Assignment](#destructuring-assignment)
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
+###[ECMAScript 6](#es6) 
+1. [Template Strings](#template-strings)
+2. [Destructuring Assignment](#destructuring-assignment)
+
+
 
 ## <a name="javascript"></a>JavaScript
 
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
 ### 1. <a name="measuring-execution-time"></a>Measuring Execution Times
 ```js
 console.time('1000-iterations');
@@ -37,6 +43,7 @@ Compatibility
 
 ## <a name="es6"></a>ECMAScript 6
 
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
 ### 1. <a name="template-strings"></a>Template Strings
 ```js
 var first = 'Zlatko';
@@ -57,6 +64,7 @@ Compatibility
 |--------|---------|------|-------|------|--------|-------|
 | 41     | 34      | 12   | 28    | 4    | 5      | 9     |
 
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
 ### 2. <a name="destructuring-assignment"></a>Destructuring Assignment
 ```js
 var user = {
