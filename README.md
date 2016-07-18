@@ -64,7 +64,7 @@ Compatibility
 
 
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
-### 3. <a name="typeof"></a>Generate Random Number
+### 3. <a name="random"></a>Generate Random Number
 ```js
 // Get a float random number between <min, max)
 function getRandom(min, max) {
