@@ -13,6 +13,7 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 ### [JavaScript](#javascript) 
 1. [Measuring Execution Times](#measuring-execution-time)
 2. [Be careful with typeof](#typeof) (16 Jun 2016)
+3. [Generate Random Number](#random) (17 Jun 2016)
 
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
 ###[ECMAScript 6](#es6) 
@@ -52,6 +53,31 @@ typeof [1, 2] === 'object'; // true
 typeof class C {} === 'function'; // true
 typeof NaN === 'number'; // true
 // NaN means "Not-A-Number"
+```
+
+Compatibility
+
+| Chrome | Firefox | Internet Explorer | Opera | Safari | Node |
+|--------|---------|-------------------|-------|--------|------|
+| Yes    | Yes     | Yes               | Yes   | Yes    | Yes  |
+
+
+
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
+### 3. <a name="typeof"></a>Generate Random Number
+```js
+// Get a float random number between <min, max)
+function getRandom(min, max) {
+  return Math.random() * (max - min) + min;
+}
+
+// Get an integer random number between <min, max)
+function getRandomInt(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+var floatNumber = getRandom(1, 3); // 1.5392530886177522
+var intNumber = getRandomInt(1, 3); // 2
 ```
 
 Compatibility
