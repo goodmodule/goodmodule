@@ -19,6 +19,7 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 ###[ECMAScript 6](#es6) 
 1. [Template Strings](#template-strings)
 2. [Destructuring Assignment](#destructuring-assignment)
+3. [Multi-line Strings](#multiline-strings) (18 Jun 2016)
 
 
 
@@ -133,6 +134,27 @@ Compatibility
 | Chrome | Firefox | Edge | Node | Babel | Safari |
 |--------|---------|------|------|--------|-------|
 | 49     | 2       | 14   | 6    | 5      | 7.1   |
+
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
+### 3. <a name="multiline-strings"></a>Multi-line Strings
+
+```js
+// ECMAScript 5 
+var msg = 'This is\n' + 
+  'multi-line string';
+
+// ECMAScript 6
+var msg = `This is
+multi-line string`;
+
+`\`` === "`" // true
+```
+
+Compatibility
+
+| Chrome | Firefox | Edge | Opera | Node | Babel  | Safari |
+|--------|---------|------|-------|------|--------|-------|
+| 41     | 34      | 12   | 28    | 4    | 5      | 9     |
 
 
 ## Be a better web developer and follow
