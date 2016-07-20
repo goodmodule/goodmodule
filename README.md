@@ -12,14 +12,15 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
 ### [JavaScript](#javascript) 
 1. [Measuring Execution Times](#measuring-execution-time)
-2. [Be careful with typeof](#typeof) (16 Jun 2016)
-3. [Generate Random Number](#random) (17 Jun 2016)
+2. [Be careful with typeof](#typeof)
+3. [Generate Random Number](#random) 
 
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
 ###[ECMAScript 6](#es6) 
 1. [Template Strings](#template-strings)
 2. [Destructuring Assignment](#destructuring-assignment)
-3. [Multi-line Strings](#multiline-strings) (18 Jun 2016)
+3. [Multi-line Strings](#multiline-strings)
+4. [Arrow Functions](#arrow-functions) (Latest TIP)
 
 
 
@@ -153,8 +154,32 @@ multi-line string`;
 Compatibility
 
 | Chrome | Firefox | Edge | Opera | Node | Babel  | Safari |
-|--------|---------|------|-------|------|--------|-------|
-| 41     | 34      | 12   | 28    | 4    | 5      | 9     |
+|--------|---------|------|-------|------|--------|--------|
+| 41     | 34      | 12   | 28    | 4    | 5      | 9      |
+
+<img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-es6.png"/>
+### 4. <a name="arrow-functions"></a>Arrow Functions
+
+```js
+var nums = [1, 2, 3];
+
+//ECMAScript 5
+var squares = nums.map(function (x) { 
+  return x * x;
+});
+
+//ECMAScript 6
+var squares = nums.map((x) => x * x);
+
+// squares === [1, 4, 9]
+```
+
+Compatibility
+
+| Chrome | Firefox | Edge | Opera | Node | Babel  | Safari |
+|--------|---------|------|-------|------|--------|--------|
+| 45     | 22      | 12   | 32    | 4    | 5      | No     |
+
 
 
 ## Be a better web developer and follow
