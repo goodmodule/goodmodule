@@ -8,6 +8,9 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 - [Facebook](https://www.facebook.com/goodmodule/)
 
 ## Content
+
+###[Frameworks / libraries differences](#frameworks) 
+1. [Loop Statement](#frameworks-loop-statement)
   
 <img width="30" height="30" align="right" src="http://happykiwis.co.nz/public/goodmodule/logo-js.jpg"/>
 ### [JavaScript](#javascript) 
@@ -20,8 +23,24 @@ Be a better web developer. JavaScript tips for everybody. (One new tip every day
 1. [Template Strings](#template-strings)
 2. [Destructuring Assignment](#destructuring-assignment)
 3. [Multi-line Strings](#multiline-strings)
-4. [Arrow Functions](#arrow-functions) (Latest TIP)
+4. [Arrow Functions](#arrow-functions)
 
+
+ 
+## <a name="frameworks"></a>Frameworks / libraries differences
+
+### 1. <a name="frameworks-loop-statement"></a>Loop Statement
+
+| Framework  | syntax              |
+|------------|---------------------|
+| <img width="30" height="30" align="right" src="http://daynin.github.io/clojurescript-presentation/img/react-logo.png"/> React      | just use javascript |
+| <img width="30" height="30" align="right" src="https://angular.io/resources/images/logos/angular2/angular.png"/> Angular 1  | ng-repeat           |
+| <img width="30" height="30" align="right" src="https://pbs.twimg.com/media/CXkqdv5WMAACBvV.png"/> Angular 2  | ngFor               |
+| <img width="30" height="30" align="right" src="https://cdn-images-2.medium.com/max/800/0*S1z4w1dGbfKxh7UI."/> Ember      | {{#each }}          |
+| <img width="30" height="30" align="right" src="http://quintagroup.com/cms/js/js-image/knockout-js-logo.png"/> Knockout   | data-bind="foreach" |
+| <img width="30" height="30" align="right" src="http://unbug.github.io/gdg14/resources/images/p-logo.svg"/> Polymer    | is="dom-repeat"     |
+| <img width="30" height="30" align="right" src="https://vuejs.org/images/logo.png"/> Vue        | v-for               |
+| <img width="30" height="30" align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXZPA7EUIFbdc4Buk1BgyWPOjv5SXJrVl3vpVOSFCiBhZH9isNcg"/> Aurelia    | repeat.for          |
 
 
 ## <a name="javascript"></a>JavaScript
