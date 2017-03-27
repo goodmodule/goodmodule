@@ -1,18 +1,19 @@
 # goodmodule
 JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 
-## Be a better web developer and follow
-- [www.goodmodule.com](http://www.goodmodule.com)
-- [Github](https://github.com/seeden/goodmodule.com)
-- [Instagram](https://www.instagram.com/goodmodule/)
-- [Facebook](https://www.facebook.com/goodmodule/)
-- [Twitter](https://twitter.com/goodmodule)
+## Be a better web developer and follow goodmodule on
+[www.goodmodule.com](http://www.goodmodule.com),
+[Github](https://github.com/seeden/goodmodule.com),
+[Instagram](https://www.instagram.com/goodmodule/),
+[Twitter](https://twitter.com/goodmodule) or
+[Facebook](https://www.facebook.com/goodmodule/)
+
 
 ## Content
 
 1. [ES6](#es6)
 2. [You don't need jQuery](#you-dont-need-jquery)
-3. [You don't need lodash](#you-dont-need-lodash)
+3. [You don't need Lodash / Underscore](#you-dont-need-lodash)
 
 
 ### <a name="es6"></a>ES6 Features
@@ -24,8 +25,8 @@ JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 
 
 ## Be a better web developer and follow
-- [www.goodmodule.com](http://www.goodmodule.com)
-- [Github](https://github.com/seeden/goodmodule.com)
-- [Instagram](https://www.instagram.com/goodmodule/)
-- [Facebook](https://www.facebook.com/goodmodule/)
-- [Twitter](https://twitter.com/goodmodule)
+[www.goodmodule.com](http://www.goodmodule.com),
+[Github](https://github.com/seeden/goodmodule.com),
+[Instagram](https://www.instagram.com/goodmodule/),
+[Twitter](https://twitter.com/goodmodule) or
+[Facebook](https://www.facebook.com/goodmodule/)
