@@ -16,13 +16,6 @@ JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 3. [You don't need jQuery](#you-dont-need-jquery)
 4. [You don't need Lodash / Underscore](#you-dont-need-lodash)
 
-### <a name="frameworks"></a>Frameworks
-
-| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14711844_186077988504214_4732663388751003648_n.jpg"/>| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13827415_598830296954830_1454195489_n.jpg"/> 
-|-|-|
-|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13706813_322527061415706_1045987180_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13774889_664573580376018_2017402601_n.jpg"/> |
-|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13741334_1797492687152389_763581931_n.jpg"/> |  |
-
 
 ### <a name="es6"></a>ES6 Features
 
@@ -35,6 +28,16 @@ JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16230215_1897041817191954_990137927646314496_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16124272_364652610569241_3995633424365780992_n.jpg"/> |
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16228881_278729019209630_3141138088709849088_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16122765_1229745843746603_7588889530480984064_n.jpg"/> |
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16124089_157601654736217_4908383544646041600_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/15099404_1783251705270838_2084211577069764608_n.jpg"/> |
+
+
+### <a name="frameworks"></a>Frameworks
+
+| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14711844_186077988504214_4732663388751003648_n.jpg"/>| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13827415_598830296954830_1454195489_n.jpg"/> 
+|-|-|
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13706813_322527061415706_1045987180_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13774889_664573580376018_2017402601_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13741334_1797492687152389_763581931_n.jpg"/> |  |
+
+
 
 ### <a name="you-dont-need-jquery"></a>You don't need jQuery
 
