@@ -28,6 +28,17 @@ JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16228881_278729019209630_3141138088709849088_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16122765_1229745843746603_7588889530480984064_n.jpg"/> |
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16124089_157601654736217_4908383544646041600_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/15099404_1783251705270838_2084211577069764608_n.jpg"/> |
 
+### <a name="you-dont-need-jquery"></a>You don't need jQuery]
+
+| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16908456_1438320576189223_4277313451405082624_n.jpg"/>| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/17076075_594790447384395_2944270256878649344_n.jpg"/> 
+|-|-|
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16230074_407118056291666_8590462847207604224_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14449179_984076055034805_5969108409398591488_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14262687_337804443236025_987868808_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/14063217_1304207829591858_2113628502_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13714019_1792583870984583_782467706_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13628347_1657342574589720_1837259056_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13658533_649405261890352_121136029_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13658542_1724108307858094_1763599657_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13627967_308173369519987_705842577_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13651711_294123914269036_751652034_n.jpg"/> |
+|<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13561793_1060319537382909_2144989221_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/13525539_1608280152835737_1924845073_n.jpg"/> |
+
 ## Be a better web developer and follow
 [www.goodmodule.com](http://www.goodmodule.com),
 [Github](https://github.com/seeden/goodmodule.com),
