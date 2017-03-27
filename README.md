@@ -28,7 +28,7 @@ JavaScript tips (ES6, CSS, Benchmarks, React, Redux, ...)
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16228881_278729019209630_3141138088709849088_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16122765_1229745843746603_7588889530480984064_n.jpg"/> |
 |<img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16124089_157601654736217_4908383544646041600_n.jpg"/> | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/15099404_1783251705270838_2084211577069764608_n.jpg"/> |
 
-### <a name="you-dont-need-jquery"></a>You don't need jQuery]
+### <a name="you-dont-need-jquery"></a>You don't need jQuery
 
 | <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/16908456_1438320576189223_4277313451405082624_n.jpg"/>| <img  src="https://scontent-vie1-1.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/17076075_594790447384395_2944270256878649344_n.jpg"/> 
 |-|-|
